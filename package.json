@@ -12,7 +12,6 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "heroku-postbuild": "ng build --prod"
   },
   "private": true,
   "dependencies": {
@@ -60,5 +59,4 @@
     "tslint": "~5.7.0",
     "typescript": "3.4.5"
   },
-
 }
