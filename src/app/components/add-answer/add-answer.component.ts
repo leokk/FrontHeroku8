@@ -20,7 +20,7 @@ export class AddAnswerComponent implements OnInit {
     this.currentUser = JSON.parse(localStorage.getItem('currentUser'));
   }
 
-  paginator: MatPaginator;
+  @ViewChild(MatPaginator,{static: false})  paginator: MatPaginator;
 
   currentUser: User;
   errorMessage:any;

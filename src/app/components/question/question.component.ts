@@ -45,7 +45,7 @@ export class QuestionComponent implements OnInit {
     overlayContainer.getContainerElement().classList.add('unicorn-dark-theme');
     this.currentUser = JSON.parse(localStorage.getItem('currentUser'));
   }
-   paginator: MatPaginator;
+  @ViewChild(MatPaginator,{static: false})  paginator: MatPaginator;
 
 
   openEditRowDialog(j:number): void {
