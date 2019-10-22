@@ -2,7 +2,11 @@
 const express = require('express');
 
 const path = require('path');
-
+var http = require("http");
+setInterval(function() {
+  http.get("https://questionare-ui.herokuapp.com");
+  http.get("https://questionare-test.herokuapp.com");
+}, 300000);
 const app = express();
 
 // Serve only the static files form the dist directory
