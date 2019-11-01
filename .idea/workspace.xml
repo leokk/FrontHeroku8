@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="af39f1f9-6293-49b0-b66a-4e63e8e385ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/profileComponents/edit-profile/edit-profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/profileComponents/edit-profile/edit-profile.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/profileComponents/register/register.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/profileComponents/register/register.component.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +93,7 @@
       <workItem from="1571071037273" duration="837000" />
       <workItem from="1571072042410" duration="18748000" />
       <workItem from="1571097025607" duration="542000" />
-      <workItem from="1571670739192" duration="18611000" />
+      <workItem from="1571670739192" duration="19994000" />
     </task>
     <servers />
   </component>
