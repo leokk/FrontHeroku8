@@ -158,7 +158,7 @@
 
         <div class="form-group" [ngClass]="{ 'has-error': f.submitted && !age.valid }">
           <label for="age"></label>
-          <input type="text" pattern="[0-9]{0,2}"
+          <input type="number"
                  placeholder="Age"
                  class="form-control"
                  name="age" id="age"
