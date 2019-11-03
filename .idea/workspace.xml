@@ -4,11 +4,17 @@
     <list default="true" id="af39f1f9-6293-49b0-b66a-4e63e8e385ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 6e6d0f3... AgePatternAdded
       <change beforePath="$PROJECT_DIR$/src/app/components/add-answer/add-answer.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/add-answer/add-answer.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/components/profileComponents/edit-profile/edit-profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/profileComponents/edit-profile/edit-profile.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/components/profileComponents/register/register.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/profileComponents/register/register.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/components/question/question.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/question/question.component.ts" afterDir="false" />
+<<<<<<< HEAD
+>>>>>>> parent of 6e6d0f3... AgePatternAdded
+=======
 >>>>>>> parent of 6e6d0f3... AgePatternAdded
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,7 +107,11 @@
       <workItem from="1571072042410" duration="18748000" />
       <workItem from="1571097025607" duration="542000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1571670739192" duration="19994000" />
+=======
+      <workItem from="1571670739192" duration="17007000" />
+>>>>>>> parent of 6e6d0f3... AgePatternAdded
 =======
       <workItem from="1571670739192" duration="17007000" />
 >>>>>>> parent of 6e6d0f3... AgePatternAdded

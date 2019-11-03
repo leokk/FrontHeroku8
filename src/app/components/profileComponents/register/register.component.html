@@ -138,15 +138,15 @@
       <br>
 
       <div class="form-group" [ngClass]="{ 'has-error': f.submitted && !age.valid }">
-        <input type="number" min="0" max="130"
+        <input type="text" pattern="[0-9]{0,2}"
                placeholder="Age"
                class="form-control"
                name="age"
                id="age"
                [(ngModel)]="user.age" #age="ngModel" required />
-        <div *ngIf="f.submitted && !age.valid" class="help-block">The age is required</div>
-        <div *ngIf="f.submitted && (age>150||age<0)" class="help-block">Too young or too old for registration(</div>
-        <div *ngIf="f.submitted && IsNumber(age)" class="help-block">The age is a digit</div>
+        <div *ngIf="f.submitted && !age.valid" class="help-block">The correct age is required</div>
+<!--        <div *ngIf="f.submitted && (age>150||age<0)" class="help-block">Too young or too old for registration(</div>-->
+<!--        <div *ngIf="f.submitted && IsNumber(age)" class="help-block">The age is a digit</div>-->
       </div>
       <br>
 <!--      /^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}-->
